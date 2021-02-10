@@ -1,6 +1,11 @@
 ## Versioning
 API used to get recent updates and check if current client version is updated.
 
+| Attribute | Type     | Description        |  Possible values |
+|-----------|----------|--------------------|------------------|
+| platform  | `string` | Client's platform  | mobile           |
+| version   | `string` | Client's version   |                  |
+
 ### Responses
 | Response           | Description                                         |
 |--------------------|-----------------------------------------------------|
